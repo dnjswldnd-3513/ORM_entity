@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ORM_Entity.iml" filepath="$PROJECT_DIR$/.idea/ORM_Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orm_Entity/Orm_Entity.iml" filepath="$PROJECT_DIR$/Orm_Entity/Orm_Entity.iml" />
     </modules>
   </component>
 </project>
